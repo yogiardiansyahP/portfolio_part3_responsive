@@ -1,0 +1,19 @@
+Simplifying complexity with captivating designs and seamless experiences.
+
+
+Armed with an array of cutting-edge tools, I create captivating interfaces that seamlessly blend form and function. From wireframes to pixel-perfect designs, my passion lies in transforming ideas into intuitive and delightful user journeys.
+
+
+Creating stunning websites that captivate and engage your online audience.
+
+
+---------------------------------------------------------
+
+Dark Blue ---> #0D1516
+Light Blue --> #00B2C5
+Dark Text ---> #D2D2D2
+Light Text --> #FFFFFF
+
+---------------------------------------------------------
+
+Font Family: Roboto
